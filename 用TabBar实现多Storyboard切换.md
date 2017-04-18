@@ -8,11 +8,11 @@
 ![](http://ww1.sinaimg.cn/large/462fccedly1feql83f43cj208s03uwes.jpg)<br/>
 ![](http://ww1.sinaimg.cn/large/462fccedly1feql8r7yl6j20cn04smxh.jpg)<br/>
 04.在 First Group 文件夹中新建一个 User Interface 的名为 First 的故事板<br/>
-![](http://ww1.sinaimg.cn/large/462fccedly1feql9wfx1nj208n03kglv.jpg)<br/>
+![](http://ww1.sinaimg.cn/large/462fccedly1feqlgjmy2zj208n03kglv.jpg)<br/>
 ![](http://ww1.sinaimg.cn/large/462fccedly1feqlaf5hwyj20af052aal.jpg)<br/>
 05.在 First.storyboard 中拖入一个 View Controller 的视图<br/>
 06.选中刚拖入的 View Controller 视图，选择右侧的 Identity inspector 选项卡，在 Custom Class 的 Class 中制定 FirstAViewController 类的绑定<br/>
-![](http://ww1.sinaimg.cn/large/462fccedly1feql5jy9oqj206s02474e.jpg)<br/>
+![](http://ww1.sinaimg.cn/large/462fccedly1feqlhkhrbej206s02474e.jpg)<br/>
 07.然后，在 Identity 的 Storyboard ID 中输入 JustFirstA 用于设定该故事板的第一个视图的名字<br/>
 ![](http://ww1.sinaimg.cn/large/462fccedly1feql6ab8evj206s02ndfx.jpg)<br/>
 08.在 View Controller 中拖入一个 Label 控件，用于标示是第哪个故事板<br/>
